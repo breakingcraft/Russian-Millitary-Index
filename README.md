@@ -20,46 +20,46 @@ Important stuff:
 
 Command posts: 
 -------- 
-ВС / VS = Armed Forces
-КП  / KP = Command Post 
-ЦКП / CKP = Central Command Post    (Центральный командный пункт)
-ЗКП / ZKP = Reserve Command post    (Запасный командный пункт) 
-ЗЦКП / TsKP = Reserve Central Command post     (запасный центральный командный пункт) 
-КПВЗ / KPVZ = Highly Protected Command post     (Командный пункт высоко защищённый) ex. 15В210 /15V210 "Сфера)Sphere"
+ВС / VS = Armed Forces<br> 
+КП  / KP = Command Post <br> 
+ЦКП / CKP = Central Command Post    (Центральный командный пункт)<br> 
+ЗКП / ZKP = Reserve Command post    (Запасный командный пункт) <br> 
+ЗЦКП / TsKP = Reserve Central Command post     (запасный центральный командный пункт) <br> 
+КПВЗ / KPVZ = Highly Protected Command post     (Командный пункт высоко защищённый) ex. 15В210 /15V210 "Сфера)Sphere"<br> 
 УКП / UKP  = Unified Command post       (унифицированный командный пункт) ex. 15В52У/15V52U similar to US LCC
 
-ЗРП	/ ZRP = anti-aircraft missile regiment  
-ЦВО / TsVO = Central Military District 
-РХБЗ / RKhBZ = CBRN 
-ШПУ / ShPU = Missile silo (or LCC) 
-ТРБ / TRB = Technical missile base
-ИСП / ISP = Engineer-Sapper Regiment
+ЗРП	/ ZRP = anti-aircraft missile regiment  <br> 
+ЦВО / TsVO = Central Military District <br> 
+РХБЗ / RKhBZ = CBRN <br> 
+ШПУ / ShPU = Missile silo (or LCC) <br> 
+ТРБ / TRB = Technical missile base<br> 
+ИСП / ISP = Engineer-Sapper Regiment<br> 
 
 
 Radio / Coms:
 -------------
-УС / US = Communication node УЗЕЛ СВЯЗИ
-УС ПУ / US PS = Communication node Command Post 
-Вспомогат УС / Axuillary PS 
-Опорный УС / Refence PS 
-Подвижные УС / Mobile US 
-Стационарный УЗ / Stationary 
-УС особого назначения / US for special purposes  
+УС / US = Communication node УЗЕЛ СВЯЗИ<br> 
+УС ПУ / US PS = Communication node Command Post <br> 
+Вспомогат УС / Axuillary PS <br> 
+Опорный УС / Refence PS <br> 
+Подвижные УС / Mobile US <br> 
+Стационарный УЗ / Stationary <br> 
+УС особого назначения / US for special purposes <br>  
 
-РЛС / RTS = Radar 
-РЧЦ / RFC = direction finder? 
-РЧЦ / RCC =  Radio Frequency Center 
-ОРТУ / = Separate Radio-Technical Unit
-ПДРЦ / PDRC / PRRTs = Transmitting Radio Center
+РЛС / RTS = Radar <br> 
+РЧЦ / RFC = direction finder? <br> 
+РЧЦ / RCC =  Radio Frequency Center <br> 
+ОРТУ / = Separate Radio-Technical Unit<br> 
+ПДРЦ / PDRC / PRRTs = Transmitting Radio Center <br> 
 ПРДП / PRDP = Transmiting Radio station (point?)        передающий радиопункт 
-ДПРМ / DPRM = long-range locator beacon
-БПРМ / BPRM = short-range locator beacon
+ДПРМ / DPRM = long-range locator beacon <br> 
+БПРМ / BPRM = short-range locator beacon <br> 
 
 Logistics: 
 ----------
-ГСМ / GSM = Fuel and Lubricants
+ГСМ / GSM = Fuel and Lubricants <br> 
 БХиРВТ / BHiRVT = Bases for Storage and Repair of Weapons and Military Equipment   База хранения и ремонта военной техники
-бхвт  / BHVT = storage base for weapons and equipment                 база хранения вооружения и техники
+бхвт  / BHVT = storage base for weapons and equipment                 база хранения вооружения и техники<br> 
 / BTRZ
 ЦБРТ / TsTRB = Central Tank Storage Bases
 
