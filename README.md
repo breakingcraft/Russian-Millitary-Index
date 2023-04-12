@@ -15,7 +15,7 @@ Abbreviations: <br>
 
 Important stuff:<br> 
 ----------------<br> 
-ВВС / VVS = Air force<br>  
+ВВС / VVS = Air force<br>
 ПВО / PVO = Air Defense<br>
 ВКС / VKS = Aerospace forces<br>
 
