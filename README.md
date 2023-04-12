@@ -6,7 +6,8 @@ Naming syntax: <br>
 --------------<br> 
 
 inactive Unit name (type) "Callsign" - (cover name) Location<br> 
-Example: fmr 610th RTB (engineering base) "Blyat" - (Khabarovsk-41) Khabarovsk<br> 
+Example: 
+fmr 610th RTB (engineering base) "Blyat" - (Khabarovsk-41) Khabarovsk<br> 
 former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Khabarovsk-41) Khabarovsk  <br> 
 
 
@@ -16,9 +17,10 @@ Important stuff:<br>
 ----------------<br> 
 ВВС / VVS = Air force<br>  
 ПВО / PVO = Air Defense<br>
+ВКС / VKS = Aerospace forces<br>
 
-
-example. КП ЗРК ПВО = KP ZRK PVO = Command Post Anti-aircraft Missile Regiment Airforce 
+example:
+КП ЗРК ПВО = KP ZRK PVO = Command Post Anti-aircraft Missile Regiment Airforce 
 
 
 
