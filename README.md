@@ -5,9 +5,9 @@ Please let me know if you have any suggestions or corrections. Constructive crit
 Naming syntax: 
 --------------
 
-inactive Unit name (type) "Callsign" - (cover name) Location
-Example: fmr 610th RTB (engineering base) "Blyat" - (Khabarovsk-41) Khabarovsk
-former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Khabarovsk-41) Khabarovsk  
+inactive Unit name (type) "Callsign" - (cover name) Location<br> 
+Example: fmr 610th RTB (engineering base) "Blyat" - (Khabarovsk-41) Khabarovsk<br> 
+former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Khabarovsk-41) Khabarovsk  <br> 
 
 
 Abbreviations 
