@@ -15,7 +15,11 @@ Abbreviations: <br>
 Important stuff:<br> 
 ----------------<br> 
 ВВС / VVS = Air force<br>  
-ПВО / PVO = Air Defense
+ПВО / PVO = Air Defense<br>
+
+
+example. КП ЗРК ПВО = KP ZRK PVO = Command Post Anti-aircraft Missile Regiment Airforce 
+
 
 
 Command posts: <br> 
@@ -31,7 +35,7 @@ Command posts: <br>
 
 Random stuff (WiP):<br> 
 ------------------<br> 
-ЗРП	/ ZRP = anti-aircraft missile regiment  <br> 
+ЗРП	/ ZRP = anti-aircraft missile regiment  <br>  
 ЦВО / TsVO = Central Military District <br> 
 РХБЗ / RKhBZ = CBRN <br> 
 ШПУ / ShPU = Missile silo (or LCC) <br> 
