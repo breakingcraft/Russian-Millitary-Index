@@ -1,17 +1,27 @@
-# Russian-Millitary-Index
-Please let me know if you have any suggestions or corrections. Constructive critisim is welcome. 
+# Russian-Millitary-Index 1.46 (development)
+Please let me know if you have any suggestions or corrections. Constructive criticism is welcome. 
 
 
-Naming syntax: <br> 
---------------<br> 
 
-inactive Unit name (type) "Callsign" - (cover name) Location<br> 
+
+#Changelog 230719 (work in progress): 
+Adding abbreviations and shortening names in the unit name or else the text will take so much space in Google Earth.
+Unknown what syntax will be used as you can only search in the title of placemarks in Google Earth. 
+If the unit name is only in the description you cant search for it, same with type of Unit. 
+
+
+#I propose the following Naming Syntax:
+
+<inactive> <Unit name> (type) "Callsign" - (Cover name/location) <Real Location>
 Example: 
-fmr 610th RTB (engineering base) "Blyat" - (Khabarovsk-41) Khabarovsk<br> 
-former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Khabarovsk-41) Khabarovsk  <br> 
+fmr 610th RTB (Eng. Base) "Blyat" - (Khabarovsk-41) Khabarovsk
+Meaning:
+former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Khabarovsk-41) Khabarovsk 
 
 
-Abbreviations: <br> 
+
+
+Abbreviations: <be> (WORK IN PROGRESS, WILL GET CHANGED A LOT) 
 
 Important stuff:<br> 
 ----------------<br> 
@@ -35,7 +45,7 @@ Command posts: <br>
 УКП / UKP  = Unified Command post       (унифицированный командный пункт) ex. 15В52У/15V52U similar to US LCC
 
 
-Random stuff (WiP):<br> 
+Random stuff :<br> 
 ------------------<br> 
 ЗРП	/ ZRP = anti-aircraft missile regiment  <br>  
 ЦВО / TsVO = Central Military District <br> 
