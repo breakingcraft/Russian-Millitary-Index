@@ -23,8 +23,75 @@ former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Kh
 
 **However the: Unit Name, Callsign, Type, and Location will not be abbreviated in the folder of the units placemarks.**
 
+-------------------------------------------------
+### Abbreviations:
+
+#### Important stuff: 
+---------------- 
+ВВС / VVS = Air force
+ПВО / PVO = Air Defense
+ВКС / VKS = Aerospace forces
+
+#### Command posts:  
+------------ -  
+ВС / VS = Armed Forces 
+КП  / KP = Command Post  
+ЦКП / CKP = Central Command Post    (Центральный командный пункт) 
+ЗКП / ZKP = Reserve Command post    (Запасный командный пункт)  
+ЗЦКП / TsKP = Reserve Central Command post     (запасный центральный командный пункт)  
+КПВЗ / KPVZ = Highly Protected Command post     (Командный пункт высоко защищённый) ex. 15В210 /15V210 "Сфера)Sphere" 
+УКП / UKP  = Unified Command post       (унифицированный командный пункт) ex. 15В52У/15V52U similar to US LCC
+
+
+#### Random stuff : 
+------------------ 
+ЗРП	/ ZRP = anti-aircraft missile regiment    
+ЦВО / TsVO = Central Military District  
+РХБЗ / RKhBZ = CBRN  
+ШПУ / ShPU = Missile silo (or LCC)  
+ТРБ / TRB = Technical missile base 
+ИСП / ISP = Engineer-Sapper Regiment 
+
+
+#### Radio / Coms:
+-------------
+УС / US = Communication node УЗЕЛ СВЯЗИ 
+УС ПУ / US PS = Communication node Command Post  
+Вспомогат УС / Axuillary PS  
+Опорный УС / Refence PS  
+Подвижные УС / Mobile US  
+Стационарный УЗ / Stationary  
+УС особого назначения / US for special purposes   
+
+РЛС / RTS = Radar  
+РЧЦ / RFC = direction finder?  
+РЧЦ / RCC =  Radio Frequency Center  
+ОРТУ / = Separate Radio-Technical Unit 
+ПДРЦ / PDRC / PRRTs = Transmitting Radio Center  
+ПРДП / PRDP = Transmiting Radio station (point?)        передающий радиопункт 
+ДПРМ / DPRM = long-range locator beacon  
+БПРМ / BPRM = short-range locator beacon  
+
+#### Logistics: 
+----------
+ГСМ / GSM = Fuel and Lubricants  
+БХиРВТ / BHiRVT = Bases for Storage and Repair of Weapons and Military Equipment   База хранения и ремонта военной техники 
+бхвт  / BHVT = storage base for weapons and equipment                 база хранения вооружения и техники 
+/ BTRZ 
+ЦБРТ / TsTRB = Central Tank Storage Bases 
+
+ОБрМО = Separate Logistic brigade 
+CTO = service station? 
+БМТО  / BMTO. = logistics battalion 
+КБМТО / KBMTO = integrated logistics base  
+ГАБТУ / GABTU = Main Agency of Automobiles and Tanks of the MoD RU 
+КЭЧ / KECH = housing maintenance service   
+КУНГов / KUNG = "trucks?"
+
 -----------------------------------------
-## Changelog 230719
+# Changelog:
+
+## Changelog 230719:
 
 **Security Council of Russia**
 
@@ -168,78 +235,9 @@ _Note: Basically the very very unsorted "Junk" folder, and some of this stuff sh
          - Research Institues & Design office (OKB)
          - Rich ppl Russia
 
-
 __Note: Folder "Others" should be created here__
     
 - -  Unknown Installations and Unidentified Unit Bases
 - - - Unkown Units _Note: Unclear definition. Neither unit number or type it is?_
     - Unknown Installations _Note: Unkown what type the Installation have_
     - Unidentified Unit Bases _Note: Unclear definiton._
-
-
-
-
--------------------------------------------------
-### Abbreviations:
-
-#### Important stuff: 
----------------- 
-ВВС / VVS = Air force
-ПВО / PVO = Air Defense
-ВКС / VKS = Aerospace forces
-
-#### Command posts:  
------------- -  
-ВС / VS = Armed Forces 
-КП  / KP = Command Post  
-ЦКП / CKP = Central Command Post    (Центральный командный пункт) 
-ЗКП / ZKP = Reserve Command post    (Запасный командный пункт)  
-ЗЦКП / TsKP = Reserve Central Command post     (запасный центральный командный пункт)  
-КПВЗ / KPVZ = Highly Protected Command post     (Командный пункт высоко защищённый) ex. 15В210 /15V210 "Сфера)Sphere" 
-УКП / UKP  = Unified Command post       (унифицированный командный пункт) ex. 15В52У/15V52U similar to US LCC
-
-
-#### Random stuff : 
------------------- 
-ЗРП	/ ZRP = anti-aircraft missile regiment    
-ЦВО / TsVO = Central Military District  
-РХБЗ / RKhBZ = CBRN  
-ШПУ / ShPU = Missile silo (or LCC)  
-ТРБ / TRB = Technical missile base 
-ИСП / ISP = Engineer-Sapper Regiment 
-
-
-#### Radio / Coms:
--------------
-УС / US = Communication node УЗЕЛ СВЯЗИ 
-УС ПУ / US PS = Communication node Command Post  
-Вспомогат УС / Axuillary PS  
-Опорный УС / Refence PS  
-Подвижные УС / Mobile US  
-Стационарный УЗ / Stationary  
-УС особого назначения / US for special purposes   
-
-РЛС / RTS = Radar  
-РЧЦ / RFC = direction finder?  
-РЧЦ / RCC =  Radio Frequency Center  
-ОРТУ / = Separate Radio-Technical Unit 
-ПДРЦ / PDRC / PRRTs = Transmitting Radio Center  
-ПРДП / PRDP = Transmiting Radio station (point?)        передающий радиопункт 
-ДПРМ / DPRM = long-range locator beacon  
-БПРМ / BPRM = short-range locator beacon  
-
-#### Logistics: 
-----------
-ГСМ / GSM = Fuel and Lubricants  
-БХиРВТ / BHiRVT = Bases for Storage and Repair of Weapons and Military Equipment   База хранения и ремонта военной техники 
-бхвт  / BHVT = storage base for weapons and equipment                 база хранения вооружения и техники 
-/ BTRZ 
-ЦБРТ / TsTRB = Central Tank Storage Bases 
-
-ОБрМО = Separate Logistic brigade 
-CTO = service station? 
-БМТО  / BMTO. = logistics battalion 
-КБМТО / KBMTO = integrated logistics base  
-ГАБТУ / GABTU = Main Agency of Automobiles and Tanks of the MoD RU 
-КЭЧ / KECH = housing maintenance service   
-КУНГов / KUNG = "trucks?" 				 
