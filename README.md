@@ -1,22 +1,22 @@
 # Russian-Millitary-Index
 
-**(WORK IN PROGRESS, WILL GET CHANGED _A LOT_)**
-
-_Please let me know if you have suggestions or corrections. Constructive criticism is welcome._  
-¯\_(ツ)_/¯
+**(WORK IN PROGRESS, WILL GET CHANGED _A LOT_) ¯\_(ツ)_/¯**
 
 ## Naming Syntax:
-_Issue:_
-Google Earth will only let you search for things in the placemarks title, not in the description. 
-Thefore the names are very long right now and needs to get shortned and a more defined syntax so units are search able by: ***Unit Name, Callsign, Type, and Location***
+
+**_Issue:_**
+Google Earth will only let you search for things in the title of the placemark, not in the description. 
+Therefore the names are very long right now and need to get shortened and a more defined syntax so units are searchable by: 
+***Unit Name, Callsign, Type, and Location***
 
 
 ### I propose the following Naming Syntax:
 
 <inactive> <Unit name (unit type) "Callsign" - (Cover name/location) <Real Location <br>
-_Example:_ 
+
+**_Example:_** 
 fmr 610th RTB (Eng. Base) "Blyat" - (Khabarovsk-41) Khabarovsk<br>
-_Meaning:_
+**_Meaning:_**
 former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Khabarovsk-41) Khabarovsk<br>
 	~~_Example, Russian to English and meaning:_
 КП ЗРК ПВО = KP ZRK PVO = Command Post Anti-aircraft Missile Regiment Airforce~~
@@ -37,16 +37,16 @@ former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Kh
 ------------ -  
 ВС / VS = Armed Forces 
 КП  / KP = Command Post  
-ЦКП / CKP = Central Command Post    (Центральный командный пункт) 
-ЗКП / ZKP = Reserve Command post    (Запасный командный пункт)  
-ЗЦКП / TsKP = Reserve Central Command post     (запасный центральный командный пункт)  
-КПВЗ / KPVZ = Highly Protected Command post     (Командный пункт высоко защищённый) ex. 15В210 /15V210 "Сфера)Sphere" 
-УКП / UKP  = Unified Command post       (унифицированный командный пункт) ex. 15В52У/15V52U similar to US LCC
+ЦКП (Центральный командный пункт) / CKP = Central Command Post 
+ЗКП (Запасный командный пункт) / ZKP = Reserve Command post  
+ЗЦКП (запасный центральный командный пункт) / TsKP = Reserve Central Command post  
+КПВЗ (Командный пункт высоко защищённый) / KPVZ = Highly Protected Command post ex. 15В210 /15V210 "Сфера/Sphere" 
+УКП (унифицированный командный пункт) / UKP  = Unified Command Post ex. 15В52У/15V52U (similar to US Minuteman LCC)
 
 
 #### Random stuff : 
 ------------------ 
-ЗРП	/ ZRP = anti-aircraft missile regiment    
+ЗРП / ZRP = anti-aircraft missile regiment    
 ЦВО / TsVO = Central Military District  
 РХБЗ / RKhBZ = CBRN  
 ШПУ / ShPU = Missile silo (or LCC)  
@@ -56,8 +56,8 @@ former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Kh
 
 #### Radio / Coms:
 -------------
-УС / US = Communication node УЗЕЛ СВЯЗИ 
-УС ПУ / US PS = Communication node Command Post  
+УС (УЗЕЛ СВЯЗИ) / US = Communication Node 
+УС ПУ / US PS = Communication Node Command Post  
 Вспомогат УС / Axuillary PS  
 Опорный УС / Refence PS  
 Подвижные УС / Mobile US  
@@ -76,8 +76,8 @@ former 610th Repair and Technical Base (engineering base) callsign "Blyat" - (Kh
 #### Logistics: 
 ----------
 ГСМ / GSM = Fuel and Lubricants  
-БХиРВТ / BHiRVT = Bases for Storage and Repair of Weapons and Military Equipment   База хранения и ремонта военной техники 
-бхвт  / BHVT = storage base for weapons and equipment                 база хранения вооружения и техники 
+БХиРВТ (База хранения и ремонта военной техники) / BHiRVT = Bases for Storage and Repair of Weapons and Military Equipment
+бхвт (база хранения вооружения и техники) / BHVT = storage base for weapons and equipment 
 / BTRZ 
 ЦБРТ / TsTRB = Central Tank Storage Bases 
 
